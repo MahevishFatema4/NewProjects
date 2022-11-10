@@ -1,0 +1,343 @@
+.Mhome {
+ height: 6749px;
+width: 1500px;
+left: -950px;
+top: -3374px;
+border-radius: 0px;
+
+}
+
+.home{
+   
+    background-image: url(../public/Home/Toit-Pune-brewpub-10\ 1.png);
+width: 1520px;
+height: 700px;
+background-size: cover;
+}
+.Elli{
+    position: absolute;
+width: 39px;
+height: 39px;
+left: 240px;
+top: 68px;
+}
+.Menu{
+    position: absolute;
+width: 44px;
+height: 21px;
+left: 287px;
+top: 72px;
+
+font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.logo{
+    position: absolute;
+width: 108px;
+height: 176px;
+left: 701px;
+top: 32px;
+}
+.Menu1{
+    position: absolute;
+width: 48px;
+height: 27px;
+left: 900px;
+top: 58px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.Menu2{
+    position: absolute;
+width: 107px;
+height: 27px;
+left: 1000px;
+top: 58px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.Menu3{
+    position: absolute;
+width: 173px;
+height: 27px;
+left: 1150px;
+top: 58px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.Menu4{
+    position: absolute;
+width: 150px;
+height: 30px;
+left: 1350px;
+top: 58px;
+border: 3px solid #ffffff;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.TOIT{
+position: absolute;
+width: 521px;
+height: 200px;
+left: 483px;
+top: 192px;
+
+
+
+color: #EFEDDD;
+
+font-family: TT Trailers;
+font-size: 370px;
+font-weight: 900;
+line-height: 273px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.BEER{
+position: absolute;
+width: 521px;
+height: 201px;
+left: 473px;
+top: 415px;
+
+font-family: 'TT Trailers';
+font-style: normal;
+font-weight: 900;
+font-size: 370px;
+line-height: 73.69%;
+/* or 273px */
+
+text-align: center;
+}
+.Rectangle1{
+    position: absolute;
+width: 536px;
+height: 647px;
+left: 0px;
+top: 694px;
+}
+.Rectangle2{
+    position: absolute;
+width: 535px;
+height: 647px;
+left: 528px;
+top: 694px;
+}
+.Rectangle3{
+    position: absolute;
+width: 536px;
+height: 647px;
+left: 988px;
+top: 694px;
+}
+.Rectangle10{
+    position: absolute;
+width: 1522px;
+height: 867px;
+left: 0px;
+top: 1300px;
+
+/* background: #121011; */
+}
+.Toit{
+    position: absolute;
+width: 531px;
+height: 391px;
+left: 679px;
+top: 1501px;
+opacity: 0.5;
+}
+.log{
+    position: absolute;
+width: 800.67px;
+height: 150.11px;
+left: 205.51px;
+top: 1540.55px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 98.19%;
+/* or 98px */
+
+text-transform: uppercase;
+
+
+ transform: rotate(0.31deg); 
+}
+.lor{
+position: absolute;
+width: 327px;
+height: 186px;
+left: 208px;
+top: 1702px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 150%;
+/* or 34px */
+
+
+color: #E0E0E0;
+}
+.Brew{
+    position: absolute;
+width: 202px;
+height: 28px;
+left: 650px;
+top: 2072px;
+
+font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 98.19%;
+/* or 24px */
+
+
+color: #ADADAD;
+
+}
+.Rectangle137{
+    position: absolute;
+width: 1522px;
+height: 1079px;
+left: 2px;
+top: 2100px;
+}
+.Vector5{
+    position: absolute;
+width: 171px;
+height: 164px;
+left: 674px;
+top: 2230px;
+
+}
+.Glass{
+    position: absolute;
+width: 375.5px;
+height: 902.37px;
+left: 0px;
+top: 2288px;
+}
+.ComeBy{
+    position: absolute;
+width: 648px;
+height: 79px;
+left: 456px;
+top: 2504px;
+}
+.ComeBy1{
+    position: absolute;
+width: 648px;
+height: 250px;
+left: 456px;
+top: 2604px;
+}
+.Bottom{
+    position: absolute;
+width: 455.54px;
+height: 702.34px;
+left: 1070px;
+top: 2486.87px;
+}
+.Rectangle133{
+    position: absolute;
+width: 1520px;
+height: 1010px;
+left: 0px;
+top: 3038px;
+}
+.Rectangle134{
+    position: absolute;
+width: 740px;
+height: 1010px;
+left: 785px;
+top: 3038px;
+mix-blend-mode: luminosity;
+}
+.Want{
+  position: absolute;
+width: 720px;
+height: 150px;
+left: 200px;
+top: 3238px;
+}
+.Cap{
+    position: absolute;
+width: 516px;
+height: 497px;
+left: 913px;
+top: 3310px;
+}
+.lore{
+    position: absolute;
+width: 509px;
+height: 147px;
+left: 219px;
+top: 3454px;
+
+font-family: 'PP Fraktion Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 139.69%;
+/* or 34px */
+
+
+color: #F0F0F0;
+
+
+}
+
